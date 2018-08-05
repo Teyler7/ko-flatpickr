@@ -3,7 +3,7 @@ Flatpickr.js date and time flatpickr instances using Knockout.js bindings.
 
 ## Installation
 Simply include a reference in your project after flatpickr.js
-```js
+```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
 <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 
